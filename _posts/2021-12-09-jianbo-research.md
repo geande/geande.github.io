@@ -8,7 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [research, computer vision]
 ---
 
-## Primer
 
 As animals that are capable of a high level understanding of the world, vision is one of our most powerful senses.  Every second, huge amounts of dense information are streamed from the world through our eyes, among other percepts.  In fact, looking more holistically, we can think of the human brain as taking in sensory information from many different sources, including vision, and building a model of the world around us.  Each of us has our own little internal metaverse, if you will.  In AI and psychology, we call this phenomenon **multimodality**, or **multi-modal perception**.  
 
@@ -56,7 +55,7 @@ For recording, we used the wide angle recording setting, which resulted in some 
 As you can see above, in the left video there is significant distortion of the checkerboard calibration pattern.  After estimating the camera intrinsic parameters using OpenCV, the resulting undistorted video shows significant improvement.  The resulting frame still retains some distortion close to the corners and edges of the frame, which can be the result of not giving enough variation to the views of the calibration pattern.  For another application of the GoPro data, I ran inference using a pre-trained hand-dectection model.  Shown below is the result of running the trained model on a sample video.
 
 <p align="middle">
-  <video width="600" controls autoplay loop>
+  <video width="600" controls autoplay muted loop>
     <source type="video/mp4" src="/assets/img/100-doh-demo.mp4">
   </video>
 </p>
@@ -71,4 +70,4 @@ The Azure Kinect has a much more extensive SDK than the GoPro API, in addition t
   <img src="/assets/img/fusion.png" width="600" />
 </p>
 
-Not yet up to date!
+I think this is a good place to stop for now, I'll be updating either this post or create a part 2 post.  I think what I'd want to do is create a second post with results from more recent data collection, as well as some explanation/demo of person tracking with the Insta360 camera and gaze tracking with the tobii glasses. :)
