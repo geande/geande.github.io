@@ -2,9 +2,9 @@
 layout: post
 title: Towards a Visual Understanding of Human Behavior
 subtitle: Research Project led by Dr. Jianbo Shi
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/cover_page_jianbo.jpg
+thumbnail-img: /assets/img/multimodality.jpg
+share-img: /assets/img/multimodality.jpg
 tags: [research, computer vision]
 ---
 
