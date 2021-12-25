@@ -1,8 +1,7 @@
 ---
 layout: post
-title: BoomBoat
 subtitle: ESE Senior Design 2021-22
-cover-img: /assets/img/seniordesigncover.png
+cover-img: /assets/img/seniordesigncover.PNG
 thumbnail-img: /assets/img/seniordesignthumbnail.jpg
 share-img: /assets/img/seniordesignthumbnail.jpg
 tags: [Senior Design, Product Development, Sustainability]
