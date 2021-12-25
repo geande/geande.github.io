@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Senior Design: BoomBoat
+title: BoomBoat
 subtitle: ESE Senior Design 2021-22
 cover-img: /assets/img/seniordesigncover.png
 thumbnail-img: /assets/img/seniordesignthumbnail.jpg
