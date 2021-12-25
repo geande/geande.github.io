@@ -15,6 +15,6 @@ My team, Boomboat, is an interdepartmental senior design team comprised of stude
 Our team already has a Github organization that is highly explanatory of our progress to date as well as our roadmap for the future, but right now this is a private repository. We are likely going to release this repository as public by the end of January. However, Senior Design as a **course** requires that teams are frequently updating their fellow students on the progress they've made. As such, we have spent a great deal of time making our work well-formatted and easy to understand for fellow students and faculty. One of the assignments we really enjoyed creating was our kickstarter video, which gave the ~30 second synopsis of Boomboat's market and a brief outline of our proposed solution. Here's our kickstarter video:
 
 <p align="middle">
-<iframe width="600" height="425" src="https://www.youtube.com/embed/nMkxg6ySDIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="700" height="425" src="https://www.youtube.com/embed/nMkxg6ySDIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </p>
